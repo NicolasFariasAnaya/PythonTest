@@ -1,7 +1,7 @@
-listados = open("matriculas.txt", "r")
+efefelistados = open("matriculas.txt", "r")
 desligados = open("Desligados.txt", "r")
 lista = []
-lista2 = []
+lista2 = []dd
 
 for x in listados:
     lista.append(x)
